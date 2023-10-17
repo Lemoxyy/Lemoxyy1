@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemoxyy&label=Profile%20views&color=0e75b6&style=flat" alt="lemoxyy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lemoxyy" target="blank"><img src="https://img.shields.io/twitter/follow/lemoxyy?logo=twitter&style=for-the-badge" alt="lemoxyy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lemoxyy" target="blank"><img src="https://img.shields.io/twitter/follow/lemoxyy?logo=twitter&style=for-the-badge" alt="lemoxyy_" /></a> </p>
 
 - 🔭 I’m currently working on **--**
 
