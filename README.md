@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lemoxyy_" target="blank"><img src="https://img.shields.io/twitter/follow/lemoxyy_?logo=twitter&style=for-the-badge" alt="lemoxyy_" /></a> </p>
 
-- 🔭 I’m currently working on a** Project**
+- 🔭 I’m currently working on a **Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
